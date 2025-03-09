@@ -1,6 +1,6 @@
 # Demo
 This is my first git repository
-Auther - adarsh tripathi
+Auther - adarsh tripathi ji
 
 
 
